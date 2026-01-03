@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Hi There!
 
 I’m **Balaji Rao**, a Computer Science Engineer who enjoys building clean, practical, and user-focused software.
 I like working on frontend-heavy applications backed by solid logic and automation.
