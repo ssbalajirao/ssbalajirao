@@ -30,6 +30,6 @@ Educational desktop application built with Python and Kivy.
 
 ## 📫 Contact
 
-* **LinkedIn:** https://www.linkedin.com/in/balajirao-shanampudi
+* **LinkedIn:** linkedin.com/in/balajirao-shanampudi
 
 ---
