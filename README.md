@@ -1,26 +1,20 @@
 ## 👋 Hi There!
-
-I’m **Balaji Rao**, a Computer Science Engineer who enjoys building clean, practical, and user-focused software.
+I'm **Balaji Rao**, a Computer Science Engineer who enjoys building clean, practical, and user-focused software.
 I like working on frontend-heavy applications backed by solid logic and automation.
-
 ---
-
 ## 🚀 Projects
-
 **🏎️ Grydilytic**
 Live telemetry visualization for Formula 1 races.
-
-**💖 Date-o-matic**
-A fun and interactive date quiz website.
 
 **🧠 Human Anatomy Encyclopedia**
 Educational desktop application built with Python and Kivy.
 
----
+**🧪 automated-test-suite**
+A professional-grade test automation framework built with Selenium and Python.
 
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balajirao-shanampudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balajiraoshanampudi@gmail.com) 
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -42,6 +36,3 @@ Educational desktop application built with Python and Kivy.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-
-
----
